@@ -68,7 +68,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rikusvr375)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rikus-van-rooyen-117866229)  
-📧 Email: rikusvr12@gmail.com(mailto:rikusvr12@gmail.com)
+📧 Email: rikusvr12@gmail.com
 
 ---
 
