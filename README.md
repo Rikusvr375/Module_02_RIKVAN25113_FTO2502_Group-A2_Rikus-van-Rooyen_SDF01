@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] Welcome to my first ever Repo!
 
 # 👋 Hi, I'm Rikus van Rooyen
 
